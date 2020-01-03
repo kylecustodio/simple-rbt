@@ -1,0 +1,13 @@
+True
+True
+True
+True
+55 -68 *45 98 
+True
+True
+True
+True
+False
+55 32 *-68 *45 98 *84 *132 
+Error in line:Insert
+Error in line:hih
